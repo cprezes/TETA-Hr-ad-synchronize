@@ -1,1 +1,1 @@
-# Teheta-Hr-ad-synchronize
+# TETA-Hr-ad-synchronize
